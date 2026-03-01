@@ -1,5 +1,5 @@
 ---
-title: My GF
+title: My BF
 date: 2026-03-01 00-00-00 
 categories: [Self Taught]
 authors: [fachri,niken]
