@@ -1,9 +1,9 @@
 ---
 title: "Event Viewing"
 date: 2026-03-02 00-00-00 
-categories: [Blue Team]
+categories: [Blue Team, CTF, Logs, Forensic]
 authors: [fachri]
-tags: [CTF,Forensic,Bootcamp,logs]   
+tags: [PicoCTF,IDN Networkers]   
 toc: true
 comments: false
 description: Event Viewing By PicoCTF

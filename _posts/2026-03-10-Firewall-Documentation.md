@@ -1,9 +1,9 @@
 ---
 title: "Firewall Documentation"
 date: 2026-03-10 00-00-00 
-categories: [Blue Team]
+categories: [Blue Team,Firewall]
 authors: [fachri]
-tags: [logs,firewall]   
+tags: [ufw]   
 toc: true
 comments: false
 description: Firewall Documentation

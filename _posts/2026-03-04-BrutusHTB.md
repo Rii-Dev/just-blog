@@ -1,9 +1,9 @@
 ---
 title: "Brutus HTB"
 date: 2026-03-04 00-00-00 
-categories: [Blue Team]
+categories: [Blue Team, CTF, Logs, Forensic]
 authors: [fachri]
-tags: [CTF,Forensic,Bootcamp,logs]   
+tags: [Hack The Box,IDN Networkers]   
 toc: true
 comments: false
 description: Brutus By HackTheBox
