@@ -88,12 +88,12 @@ Untuk mempermudah pencaharian kerentanan pada SQLI, kita bisa menggunakan filter
 
 ![alt text](11.png)
 
-Dan Hasilnya terdapat 4 Aktivitas SQLI yang terdeteksi
+Dan Hasilnya terdapat 5 Aktivitas SQLI yang terdeteksi
 
 ![alt text](12.png)
 #### Jawaban
 
-4 Aktivitas SQLI
+5 Aktivitas SQLI
 
 ### Soal 5
 
